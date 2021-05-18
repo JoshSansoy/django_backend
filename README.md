@@ -1,4 +1,4 @@
-# monster_builder_backend
+# MB Backend
 
 This is a Django project that serves as a rest API for my monster-builder app.
 
